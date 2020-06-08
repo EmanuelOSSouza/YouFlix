@@ -3,7 +3,7 @@ O projeto YouFlix trata-se de um aplicativo mobile de streaming de vídeo inspir
 
 **Objetivo**
 
-Desenvolver um aplicativo mobile para organizar videoaulas focado em áreas relacionadas ao curso técnico de Desenvolvimento de Sistemas. Neste conterá as seguintes disciplinas selecionadas:
+Desenvolver um aplicativo mobile para organizar videoaulas focado em áreas relacionadas ao curso técnico de Desenvolvimento de Sistemas. Neste conterá as seguintes disciplinas selecionadas: Lógica de programação, desenvolvimento de sistemas, desenvolvimento mobile, banco de dados e programação web.
 
 **Justificativa**
 
